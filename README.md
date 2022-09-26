@@ -27,6 +27,7 @@ Die Webapplikation wird zusätzlich auf Heroku online veröffentlicht.
 
 Die Links dazu befinden sich unten. 
 
+https://frontend-pc-konfigurator.herokuapp.com/
+
 https://backend-pc-konfigurator.herokuapp.com/
 
-https://frontend-pc-konfigurator.herokuapp.com/
