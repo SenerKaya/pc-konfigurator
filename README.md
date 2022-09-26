@@ -1,6 +1,6 @@
 # Full-Stack Application PC-Konfigurator
 
-Der PC-Konfigurator ist eine Anwendung, die es nutzern erlauben soll einen Computer entsprechend ihren Nutzungsabsichten zu auszuwählen und ggf. auch selbst zu zusammenzustellen. Für diese Full-Stack Application nutzen wir **Vue.js** frontend-seitig sowie **Node.js & Express** als Backend. Anfallende Daten speichern wir in einer **MySQL Datebank**.
+Der PC-Konfigurator ist eine Anwendung, die es Nutzern erlauben soll einen Computer entsprechend ihren Nutzungsabsichten auszuwählen oder selbst zusammenzustellen. Für diese Full-Stack Application nutzen wir **Vue.js** frontend-seitig sowie **Node.js & Express** als Backend. Anfallende Daten speichern wir in einer **MySQL Datebank**.
 
 Dabei existieren zwei separate Projekte, eins jeweils für das Frontend und eins für das Backend. Das bedeutet, dass wir ebenfalls zwei verschiedene **package.json** Dateien haben. Diese enthalten die Metadaten über das jeweilige Projekt.
 
@@ -19,7 +19,7 @@ Um den Backend-Server zu starten:
 Die Frontend-Applikation starten:
 
     npm run serve
-Die Datenbank kann auf eigene SQL-Datenbank geklont werden. Dafür muss die Datei "sql_dump-backend" importiert werden.
+Die Datenbank kann auf eigene SQL-Datenbank geklont werden. Dafür muss folgende Datei "sql_dump-backend" importiert werden.
 
 [sql_dump-backend-20220926](/sql_dump-backend-20220926.sql)
 
