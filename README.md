@@ -20,7 +20,9 @@ Die Frontend-Applikation starten:
 
     npm run serve
 
-Die Webapplikation wird zusätzlich auf Heroku online veröffentlicht. Die Links dazu befinden sich unten. 
+Die Webapplikation wird zusätzlich auf Heroku online veröffentlicht. 
+
+Die Links dazu befinden sich unten. 
 
 https://backend-pc-konfigurator.herokuapp.com/
 
