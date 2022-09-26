@@ -19,6 +19,9 @@ Um den Backend-Server zu starten:
 Die Frontend-Applikation starten:
 
     npm run serve
+Die Datenbank kann auf eigene SQL-Datenbank geklont werden. Dafür muss die Datei "sql_dump-backend" importiert werden.
+
+[sql_dump-backend-20220926](/sql_dump-backend-20220926.sql)
 
 Die Webapplikation wird zusätzlich auf Heroku online veröffentlicht. 
 
