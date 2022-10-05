@@ -1,6 +1,9 @@
-/*  Diese Datei ist nur für Online Deployement wichtig
+//  Diese Datei ist nur für Online Deployement wichtig
+
+/*
 const express = require('express')
 const cors=require('cors')
+*/
 
 /*
 const serveStatic = require('serve-static')
