@@ -30,7 +30,7 @@
     </table>
     <div class="align-text-button">
       <div>
-        <p class="price-text" v-show="price != undefined"> {{ price }}€</p>
+        <p class="price-text" v-show="price != undefined"> {{ price }}.- CHF</p>
         <button @click="checkCompatibility" type="button" class="btn btn-outline-warning" v-show="price == undefined">
           Kompabilitätscheck ausführen
         </button>
