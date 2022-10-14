@@ -34,7 +34,7 @@ app.use('/api', router)
 
 
 app.get('/', function (req, res) {
-     res.send('hello from backend')
+     res.send('backend funktioniert')
    })
 
 app.listen(PORT, () => console.log(`Server running at http://localhost:${PORT}`));
